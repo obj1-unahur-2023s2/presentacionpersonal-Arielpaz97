@@ -27,12 +27,13 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Ariel
 
-Me gusta ...
+Me gusta jugar futbol
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de programador
 
 Les dejo una imagen mía 
 
-![subir archivo de imagen](imagen.jpg)
+![image](https://github.com/obj1-unahur-2023s2/presentacionpersonal-Arielpaz97/assets/21029050/adaa25a1-b6d6-47c0-ab36-60d66c56e8bf)
+
